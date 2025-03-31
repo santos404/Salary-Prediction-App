@@ -18,7 +18,7 @@ git add .
 git commit -m "Initial commit"
 #in your terminal, add the GitHub repository as a remote:
 git remote add origin https://github.com/your-username/salary-prediction-app.git
-# Replace your-username and regression_model with your actual GitHub username and repository name.
+# Replace your-username with your actual GitHub username and repository name.
 #Then push your commits to GitHub
 git push -u origin main
 #If your branch is named master instead of main, replace main with master.
